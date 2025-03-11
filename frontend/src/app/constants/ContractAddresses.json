@@ -1,0 +1,9 @@
+{
+    "sepolia": {
+      "FactoryContract": "0xa397d7e7C68C9b6aAC9A09F38F1F66c7CcE977b1"
+    },
+    "localhost": {
+      "FactoryContract": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    }
+  }
+  
