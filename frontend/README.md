@@ -4,7 +4,7 @@
 
 This is the frontend of the NFT Factory project, built with Next.js (React framework). It interacts with the blockchain smart contracts deployed using Hardhat.
 
-Current website is hosted on [nft-factory-yashk.vercel.app](nft-factory-yashk.vercel.app)
+Current website is hosted on [https://nft-factory-yashk.vercel.app/](https://nft-factory-yashk.vercel.app/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
