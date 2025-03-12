@@ -30,6 +30,10 @@ NFT Factory is a platform that allows users to create and manage NFTs seamlessly
 
 - NFTs are given token IDs starting from 1.
 
+- NFT metadata (Image, Name, Description) are stored on IPFS.
+
+- Pinata along with axios are used for storing data on IPFS.
+
 ## Technologies Used
 
 - **Solidity:** For smart contract development.
