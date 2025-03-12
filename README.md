@@ -2,7 +2,7 @@
 
 ## Overview
 
-NFT Factory is a platform that allows users to create and manage NFTs seamlessly in seconds. The project is developed using Solidity for smart contracts and features a Next.js frontend for user interaction.
+NFT Factory is a Dapp that allows users to create and manage NFTs seamlessly in seconds. The project is developed using Solidity for smart contracts and features a Next.js frontend for user interaction.
 
 ## Project Domain
 
