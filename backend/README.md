@@ -45,7 +45,7 @@ npx hardhat coverage
 ```
 
 Current tests cover 100% of the solidity contract
-![Solidity Coverage Result](..screenshots/Test_coverage_screenshot.png)
+![Solidity Coverage Result](../screenshots/Test_coverage_screenshot.png)
 
 ### 4. Run Hardhat gas reporter
 
