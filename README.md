@@ -4,6 +4,10 @@
 
 NFT Factory is a platform that allows users to create and manage NFTs seamlessly in seconds. The project is developed using Solidity for smart contracts and features a Next.js frontend for user interaction.
 
+## Project Domain
+
+- **Live Application:** [nft-factory-yashk.vercel.app](https://nft-factory-yashk.vercel.app/)
+
 ## Features
 
 - **Smart Contracts:** Written in Solidity to handle NFT creation and management.
@@ -48,9 +52,6 @@ NFT Factory is a platform that allows users to create and manage NFTs seamlessly
 - **Contract Address (Sepolia):** `0xa397d7e7C68C9b6aAC9A09F38F1F66c7CcE977b1`
 - **Etherscan Link:** [https://sepolia.etherscan.io/address/0xa397d7e7C68C9b6aAC9A09F38F1F66c7CcE977b1](https://sepolia.etherscan.io/address/0xa397d7e7C68C9b6aAC9A09F38F1F66c7CcE977b1)
 
-## Project Domain
-
-- **Live Application:** [nft-factory-yashk.vercel.app](https://nft-factory-yashk.vercel.app/)
 
 ## Installation and Setup
 
