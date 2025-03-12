@@ -69,8 +69,8 @@ Ensure you have the following installed:
    cd nft-factory
    ```
 2. Check out the respective README files for backend and frontend setup:
-   - **Backend README**(backend/README.md)
-   - **Frontend README**(frontend/README.md)
+   - [Backend README](backend/README.md)
+   - [Frontend README](frontend/README.md)
 
 ## Screenshots
 
