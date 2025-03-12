@@ -53,7 +53,7 @@ Current tests cover 100% of the solidity contract
 npx hardhat test
 ```
 
-Checkout [gas-report.txt](backend/gas-report.txt)
+Checkout [gas-report.txt](/gas-report.txt)
 
 ### 5. Start a Local Hardhat Node
 
